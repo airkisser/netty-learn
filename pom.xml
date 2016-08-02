@@ -9,6 +9,7 @@
         <module>basic-nio</module>
         <module>netty-basic-usage</module>
         <module>netty-delimiter-decoder</module>
+        <module>netty-fixedlength-decoder</module>
     </modules>
     <packaging>pom</packaging>
 
