@@ -1,0 +1,3 @@
+# Netty的基本使用
+## 使用Netty实现客户端向服务端请求时间的案例
+其中使用LineBasedFrameDecoder和StringDecoder处理粘包
