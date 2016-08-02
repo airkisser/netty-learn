@@ -8,6 +8,7 @@
     <modules>
         <module>basic-nio</module>
         <module>netty-basic-usage</module>
+        <module>netty-delimiter-decoder</module>
     </modules>
     <packaging>pom</packaging>
 
