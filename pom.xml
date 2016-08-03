@@ -10,6 +10,7 @@
         <module>netty-basic-usage</module>
         <module>netty-delimiter-decoder</module>
         <module>netty-fixedlength-decoder</module>
+        <module>netty-codec-messagepack</module>
     </modules>
     <packaging>pom</packaging>
 
